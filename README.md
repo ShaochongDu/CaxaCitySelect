@@ -4,4 +4,4 @@
 ```
 注意：获取areaid时看项目中使用的是id还是root字段，在代码中进行相应的修改即可
 ```
-![image](https://github.com/ShaochongDu/CaxaCitySelect/raw/master/DemoScreenShot.gif)
+![image](https://raw.githubusercontent.com/ShaochongDu/CaxaCitySelect/master/CaxaCitySelect/DemoScreenShot.gif)
